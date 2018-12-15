@@ -1,0 +1,65 @@
+- name: Dayeol Lee
+  website: https://dayeol.github.io
+  type: student
+  github: dayeol
+  affiliation: UC Berkeley
+  email: dayeol@berkeley.edu
+  twitter: "0xda9e01"
+  photo: img/dayeol.png
+
+- name: David Kohlbrenner
+  website: dkohlbre.com
+  type: postdoc
+  github: dkohlbre
+  affiliation: UC Berkeley
+  email: dkohlbre@berkeley.edu
+  twitter: dkohlbre
+  photo: img/dkohlbre.png
+
+- name: Krste Asanovic
+  website: http://people.eecs.berkeley.edu/~krste/
+  type: faculty
+  affiliation: UC Berkeley
+  email: krste@berkeley.edu
+  twitter: kasanovic
+  photo: img/krste.png
+
+- name: Dawn Song
+  website: https://people.eecs.berkeley.edu/~dawnsong/
+  type: faculty
+  affiliation: UC Berkeley
+  email: dawnsong@berkeley.edu
+  twitter: dawnsongtweets
+  photo: img/dawn.png
+
+- name: Ilia Lebedev
+  website: http://ilia.hackartscience.com/
+  type: student
+  github: ilebedev
+  affiliation: MIT
+  email: ilebedev@mit.edu
+  photo: img/ilia.png
+
+- name: Srini Devadas
+  website: https://people.csail.mit.edu/devadas/
+  type: faculty
+  affiliation: MIT
+  email: devadas@mit.edu
+  photo: img/srini.png
+
+- name: Sagar Karandikar
+  website: https://sagark.org
+  type: student
+  github: sagark
+  affiliation: UC Berkeley
+  email: sagark@eecs.berkeley.edu
+  twitter: KarandikarSagar
+  photo: img/sagar.jpeg
+
+- name: Albert Ou
+  website: https://people.eecs.berkeley.edu/~a_ou/
+  type: student
+  github: a0u
+  affiliation: UC Berkeley
+  email: aou@berkeley.edu
+  photo: img/albert.jpg
